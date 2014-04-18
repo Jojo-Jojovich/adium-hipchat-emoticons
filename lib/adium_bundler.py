@@ -42,14 +42,14 @@ Emot = namedtuple('Emot', ('name', 'imgbase', 'imgpath', 'shortcuts'))
 def merge_identical_emoticons(emoticons):
     emotedict = {}
     for emot in emoticons:
-        imgname = os.path.basename(emot['image'])
+        imgname = os.path.basename(emot['file'])
         emotobj = emotedict.get(imgname)
         shortcut = unescape(emot['shortcut'])
         # special case, work around bug(?) in henrik code
         if shortcut == ':':
             shortcut = ':/'
         if emotobj is None:
-            emotedict[imgname] = emotobj = Emot(shortcut, imgname, emot['image'], [])
+            emotedict[imgname] = emotobj = Emot(shortcut, imgname, emot['file'], [])
         emotobj.shortcuts.append(shortcut)
     return sorted(emotedict.values())
 
