@@ -42,6 +42,15 @@
         <key>Name</key>
         <string>(arrington)</string>
       </dict>
+        <key>arya-1396908740.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(arya)</string>
+        </array>
+        <key>Name</key>
+        <string>(arya)</string>
+      </dict>
         <key>ashton.png</key>
       <dict>
         <key>Equivalents</key>
@@ -339,6 +348,15 @@
         <key>Name</key>
         <string>(cornelius)</string>
       </dict>
+        <key>daenerys-1396908819.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(daenerys)</string>
+        </array>
+        <key>Name</key>
+        <string>(daenerys)</string>
+      </dict>
         <key>dance.gif</key>
       <dict>
         <key>Equivalents</key>
@@ -456,6 +474,15 @@
         <key>Name</key>
         <string>(firstworldproblem)</string>
       </dict>
+        <key>fonzie-1386958620.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(fonzie)</string>
+        </array>
+        <key>Name</key>
+        <string>(fonzie)</string>
+      </dict>
         <key>foreveralone.png</key>
       <dict>
         <key>Equivalents</key>
@@ -564,12 +591,11 @@
         <key>Name</key>
         <string>(grumpycat)</string>
       </dict>
-        <key>gtfo.png</key>
+        <key>gtfo-1381428639.png</key>
       <dict>
         <key>Equivalents</key>
         <array>
           <string>(gtfo)</string>
-          <string>(huh)</string>
         </array>
         <key>Name</key>
         <string>(gtfo)</string>
@@ -609,6 +635,24 @@
         </array>
         <key>Name</key>
         <string>(hipster)</string>
+      </dict>
+        <key>hodor-1396908720.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(hodor)</string>
+        </array>
+        <key>Name</key>
+        <string>(hodor)</string>
+      </dict>
+        <key>huh-1381428657.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(huh)</string>
+        </array>
+        <key>Name</key>
+        <string>(huh)</string>
       </dict>
         <key>ilied.png</key>
       <dict>
@@ -655,6 +699,15 @@
         <key>Name</key>
         <string>(jackie)</string>
       </dict>
+        <key>jaime-1396908791.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(jaime)</string>
+        </array>
+        <key>Name</key>
+        <string>(jaime)</string>
+      </dict>
         <key>jira-1350074257.png</key>
       <dict>
         <key>Equivalents</key>
@@ -672,6 +725,24 @@
         </array>
         <key>Name</key>
         <string>(jobs)</string>
+      </dict>
+        <key>joffrey-1396908826.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(joffrey)</string>
+        </array>
+        <key>Name</key>
+        <string>(joffrey)</string>
+      </dict>
+        <key>jonsnow-1396908809.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(jonsnow)</string>
+        </array>
+        <key>Name</key>
+        <string>(jonsnow)</string>
       </dict>
         <key>kennypowers.png</key>
       <dict>
@@ -753,6 +824,24 @@
         </array>
         <key>Name</key>
         <string>(mindblown)</string>
+      </dict>
+        <key>ned-1396908800.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(ned)</string>
+        </array>
+        <key>Name</key>
+        <string>(ned)</string>
+      </dict>
+        <key>nextgendev-1394050121.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(nextgendev)</string>
+        </array>
+        <key>Name</key>
+        <string>(nextgendev)</string>
       </dict>
         <key>ninja.png</key>
       <dict>
@@ -1079,6 +1168,15 @@
         <key>Name</key>
         <string>(stare)</string>
       </dict>
+        <key>stash-1391127729.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(stash)</string>
+        </array>
+        <key>Name</key>
+        <string>(stash)</string>
+      </dict>
         <key>success-1348262443.png</key>
       <dict>
         <key>Equivalents</key>
@@ -1151,15 +1249,6 @@
         <key>Name</key>
         <string>(thumbsup)</string>
       </dict>
-        <key>timeforthat-1366733895.gif</key>
-      <dict>
-        <key>Equivalents</key>
-        <array>
-          <string>(timeforthat)</string>
-        </array>
-        <key>Name</key>
-        <string>(timeforthat)</string>
-      </dict>
         <key>tree.png</key>
       <dict>
         <key>Equivalents</key>
@@ -1196,7 +1285,7 @@
         <key>Name</key>
         <string>(trump)</string>
       </dict>
-        <key>turkey.png</key>
+        <key>turkey-1386104992.png</key>
       <dict>
         <key>Equivalents</key>
         <array>
@@ -1213,6 +1302,24 @@
         </array>
         <key>Name</key>
         <string>(twss)</string>
+      </dict>
+        <key>tyrion-1396908780.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(tyrion)</string>
+        </array>
+        <key>Name</key>
+        <string>(tyrion)</string>
+      </dict>
+        <key>tywin-1396908839.png</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(tywin)</string>
+        </array>
+        <key>Name</key>
+        <string>(tywin)</string>
       </dict>
         <key>unknown-1369948620.png</key>
       <dict>
