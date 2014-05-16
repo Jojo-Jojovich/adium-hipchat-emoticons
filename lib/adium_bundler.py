@@ -6,7 +6,7 @@ from xml.sax.saxutils import unescape
 from StringIO import StringIO
 from collections import namedtuple
 
-hipchat_emoticons_github = 'https://github.com/henrik/hipchat-emoticons'
+hipchat_emoticons_github = 'https://github.com/Jojo-Jojovich/hipchat-emoticons'
 hipchat_emoticons_dl = 'https://dujrsrsgsd3nh.cloudfront.net/img/emoticons'
 
 plist_header = '''\
@@ -74,8 +74,8 @@ def update_icon(imgpath, destfile):
 
 def update_bundle(bundle_path, emoticons):
     write_plist(os.path.join(bundle_path, 'Emoticons.plist'), emoticons)
-    for emot in emoticons:
-        update_icon(emot.imgpath, os.path.join(bundle_path, emot.imgbase))
+    #for emot in emoticons:
+        #update_icon(emot.imgpath, os.path.join(bundle_path, emot.imgbase))
 
 def build_bundle(emoticons, root_dir):
     emoticons = merge_identical_emoticons(emoticons)

@@ -555,6 +555,15 @@
         <key>Name</key>
         <string>(gates)</string>
       </dict>
+        <key>gaytroll.gif</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(gaytroll)</string>
+        </array>
+        <key>Name</key>
+        <string>(gaytroll)</string>
+      </dict>
         <key>ghost.png</key>
       <dict>
         <key>Equivalents</key>
@@ -618,7 +627,7 @@
         <key>Name</key>
         <string>(heart)</string>
       </dict>
-        <key>hipchat.png</key>
+        <key>hipchat-1399396865.png</key>
       <dict>
         <key>Equivalents</key>
         <array>
@@ -1248,6 +1257,15 @@
         </array>
         <key>Name</key>
         <string>(thumbsup)</string>
+      </dict>
+        <key>timeforthat.gif</key>
+      <dict>
+        <key>Equivalents</key>
+        <array>
+          <string>(timeforthat)</string>
+        </array>
+        <key>Name</key>
+        <string>(timeforthat)</string>
       </dict>
         <key>tree.png</key>
       <dict>
